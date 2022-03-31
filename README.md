@@ -1,5 +1,5 @@
 # Data-Science-Projects
-You can see how I went about my project from Data cleaning to utilizing models for better accuracy.
+You can see how I went about my project from Data cleaning to utilizing Machine Learning models for better accuracy.
 The projects above include use of following tools:
 Pandas
 matplotlib
